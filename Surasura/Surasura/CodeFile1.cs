@@ -8,7 +8,6 @@ class Class1
         Console.WriteLine("みなさま、はじめまして");
 
 
-
     }
 
 }
